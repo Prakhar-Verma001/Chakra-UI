@@ -32,8 +32,7 @@ const Footer = () => {
                         p: 2
                     }}>@ 2021, Made WITH ❤️ 
                         by <Typography {...SpanStyle} component='span'>
-                        Creative Tim</Typography> & <Typography {...SpanStyle} 
-                        component='span'>Simmmple</Typography> for a better web
+                        Prakhar Verma</Typography> for a better web
                     </Typography>
                 </Stack>
                 <Grid container columns={8} direction={'row'} sx={{
